@@ -1,3 +1,16 @@
+*-lock.json
+*-code-workspace
+.vscode
+
+# Logs
+logs*
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
 dist
 node_modules
 coverage
+
+.env
